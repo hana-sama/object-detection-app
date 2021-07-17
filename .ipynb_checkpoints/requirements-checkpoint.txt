@@ -1,0 +1,6 @@
+azure
+azure.cognitiveservices.vision.computervision
+msrest.authentication
+pandas
+streamlit
+PIL
